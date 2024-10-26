@@ -1,4 +1,4 @@
 # Homework
 Insertion Sort/
 Bubble Sort/ Selection Sort/
-Matrix Multiplication
+Matrix Multiplication/ Quick Sort
