@@ -4,4 +4,5 @@ Bubble Sort/
 Selection Sort/
 Matrix Multiplication/ 
 Quick Sort/ 
-Merge Sort
+Merge Sort/
+Heap Sort
