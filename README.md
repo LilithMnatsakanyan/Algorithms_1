@@ -5,4 +5,5 @@ Selection Sort/
 Matrix Multiplication/ 
 Quick Sort/ 
 Merge Sort/
-Heap Sort
+Heap Sort/
+Shell Sort
