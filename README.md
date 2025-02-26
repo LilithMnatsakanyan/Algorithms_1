@@ -38,7 +38,7 @@ I learned these algorithms through my **university coursework**, as well as from
 1. **Clone the repository** to your local machine:
    ```bash
    git clone https://github.com/LilithMnatsakanyan/Algorithms_1.git
-   cd algorithms-repository
+   cd Algorithms_1
    ```
 
 2. **Run the script** for the specific algorithm you want to test (e.g., `insertion_sort.py` or `quick_sort.py`):
