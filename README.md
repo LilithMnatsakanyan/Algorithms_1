@@ -37,7 +37,7 @@ I learned these algorithms through my **university coursework**, as well as from
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/algorithms-repository.git
+   git clone https://github.com/LilithMnatsakanyan/Homework.git
    cd algorithms-repository
    ```
 
