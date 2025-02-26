@@ -41,12 +41,7 @@ I learned these algorithms through my **university coursework**, as well as from
    cd algorithms-repository
    ```
 
-2. **Navigate** to the desired algorithm folder (e.g., `sorting` or `matrix-multiplication`):
-   ```bash
-   cd sorting
-   ```
-
-3. **Run the script** for the specific algorithm you want to test (e.g., `insertion_sort.py` or `quick_sort.py`):
+2. **Run the script** for the specific algorithm you want to test (e.g., `insertion_sort.py` or `quick_sort.py`):
    ```bash
    python insertion_sort.py
    ```
